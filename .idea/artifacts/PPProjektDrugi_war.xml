@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="PPProjektDrugi:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/PPProjektDrugi_war</output-path>
+    <root id="archive" name="baza.war">
+      <element id="artifact" artifact-name="PPProjektDrugi:war exploded" />
+    </root>
+  </artifact>
+</component>
